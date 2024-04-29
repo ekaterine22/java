@@ -1,0 +1,33 @@
+   Piano Melodies Library - Task 2
+
+ekaterine kapanadze
+
+4/29/2024
+
+Class Descriptions:
+Book Class:
+Description: The Book class represents individual piano compositions within the Piano Melodies Library. Each instance of the Book class encapsulates details about a specific piano melody, including its title, composer, genre, difficulty level, and a link or reference to the actual musical score or audio file.
+
+
+LMS Class:
+Description: The LMS (Library Management System) class serves as the core component of the Piano Melodies Library, managing the storage, addition, removal, and display of piano melodies. It provides functionalities to organize melodies by categories, search for specific compositions, and facilitate user interactions with the library.
+
+
+LibraryTester Class:
+Description: The LibraryTester class is responsible for testing the functionalities of the Piano Melodies Library system. It contains test cases to ensure that adding, removing, and displaying piano melodies work as expected without errors or bugs.
+
+
+Features and Functionality:
+
+Storage: The Piano Melodies Library system uses a database or file storage to securely store piano compositions, ensuring easy access and organization.
+
+Addition: Users can upload new piano melodies to the library by providing information such as title, composer, genre, difficulty level, and the actual music file (MIDI, audio, or sheet music).
+
+Removal: Users have the option to remove piano melodies from the library if they no longer wish to keep them.
+
+Display: The system provides a user-friendly interface where users can browse, search, and view details about each piano melody. Users can listen to a preview or view sheet music directly within the system.
+
+Conclusion:
+The Piano Melodies Library system is designed to preserve and share the beauty of piano compositions. By providing a digital platform for storing, accessing, 
+and enjoying piano melodies, users can explore a rich collection of musical works and contribute to the cultural heritage of piano music. 
+Enjoy the journey of discovering and playing timeless piano melodies!
